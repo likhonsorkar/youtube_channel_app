@@ -15,6 +15,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        /* MD. Likhon Sorkar
+           B.Sc in Computer Scirnce & Engineering
+           Facebook : https://www.facebook.com/wdLikhonsorkar/
+           Linkdin : https://www.linkedin.com/in/likhonsorkar/
+           Whatsapp : +8801571230198
+         */
         bottomNavigationView = findViewById(R.id.bottom_nav);
         FragmentManager fragmentManager = getSupportFragmentManager();
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();

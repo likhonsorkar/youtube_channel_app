@@ -8,6 +8,11 @@
 <!--    Your Youtube API-->
     <string name="youtubeapikey">AIzaSyDX_Z1SW28uK1wtMtwZaEJDgpOonacHBmw</string>
     <string name="max_result">2000</string>
+<!--    MD. Likhon Sorkar-->
+<!--    B.Sc in Computer Scirnce & Engineering-->
+<!--    Facebook : https://www.facebook.com/wdLikhonsorkar/-->
+<!--    Linkdin : https://www.linkedin.com/in/likhonsorkar/-->
+<!--    Whatsapp : +8801571230198-->
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

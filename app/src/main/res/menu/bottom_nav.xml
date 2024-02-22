@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homebtn"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/playlistbtn"
+        android:icon="@drawable/baseline_view_list_24"
+        android:title="Playlist"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/aboutbtn"
+        android:icon="@drawable/baseline_add_reaction_24"
+        android:title="About"
+        android:checkable="true"
+        />
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Youtube Channel</string>
+    <string name="channel_id1">UCxStLx7yb96MGBfIMo20x7Q</string>
+    <string name="channel_id2">UCR-XZi9xgIdeUl3Q9PJBbiQ</string>
+    <string name="channel_id3">UCuxth2BimHUigZ344JhcFPw</string>
+<!--    Replace orginal channel id-->
+    <string name="channel_id">UC3YmP7nqf514I1zh1eVbzrA</string>
+<!--    Your Youtube API-->
+    <string name="youtubeapikey">AIzaSyDX_Z1SW28uK1wtMtwZaEJDgpOonacHBmw</string>
+    <string name="max_result">2000</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
